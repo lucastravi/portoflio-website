@@ -18,7 +18,7 @@ Obs: if using another browser, check the command line to execute html files with
 
 ## Why use this project?
 It contains beautiful parralax effects and a modern design
-<img src="images/git1.png width="80%"
+<img src="images/git1.png" width="80%">
 
 It is not only beautiful in a desktop computer, but also in a table
 

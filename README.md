@@ -25,6 +25,7 @@ It contains beautiful parralax effects and a modern design
 <img src="images/git4.png" width="80%">
 
 It is not only beautiful in a desktop computer, but also in a tablet or a cellphone!
+
 <img src="images/git5.png" width="80%">
 <img src="images/git6.png" width="80%">
 

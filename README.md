@@ -18,11 +18,15 @@ Obs: if using another browser, check the command line to execute html files with
 
 ## Why use this project?
 It contains beautiful parralax effects and a modern design
+
 <img src="images/git1.png" width="80%">
+<img src="images/git2.png" width="80%">
+<img src="images/git3.png" width="80%">
+<img src="images/git4.png" width="80%">
 
-It is not only beautiful in a desktop computer, but also in a table
-
-This template is responsive for cellphones too!
+It is not only beautiful in a desktop computer, but also in a tablet or a cellphone!
+<img src="images/git5.png" width="80%">
+<img src="images/git6.png" width="80%">
 
 ## Copyrights
 All the codes wich helped in this application development were obtained from open source fonts, such as GitHub, Stackoverflow, Udacity forums, etc.

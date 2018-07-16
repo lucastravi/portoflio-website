@@ -24,10 +24,10 @@ It contains beautiful parralax effects and a modern design
 <img src="images/git3.png" width="80%">
 <img src="images/git4.png" width="80%">
 
-It is not only beautiful in a desktop computer, but also in a tablet or a cellphone!
+It is not only beautiful on a desktop computer, but also in a tablet or a cellphone screen, completely responsive!
 
-<img src="images/git5.png" width="80%">
-<img src="images/git6.png" width="80%">
+<img src="images/git5.png" width="60%">
+<img src="images/git6.png" width="40%">
 
 ## Copyrights
 All the codes wich helped in this application development were obtained from open source fonts, such as GitHub, Stackoverflow, Udacity forums, etc.

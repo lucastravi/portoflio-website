@@ -10,33 +10,33 @@ body {
 
 
 #custom-nav {
-    background-color: rgba(0,0,0,0);
-    border: 0;
-    box-shadow: none;
-    z-index: 999;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-transition: background .5s ease-in-out, opacity .5s ease;
-    -moz-transition: background .5s ease-in-out, opacity .5s ease;
-    transition: background .5s ease-in-out, opacity .5s ease;
+  background-color: rgba(0,0,0,0);
+  border: 0;
+  box-shadow: none;
+  z-index: 999;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: background .5s ease-in-out, opacity .5s ease;
+  -moz-transition: background .5s ease-in-out, opacity .5s ease;
+  transition: background .5s ease-in-out, opacity .5s ease;
 }
 
 #custom-nav .container {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    -webkit-transition: padding-top .5s ease, padding-bottom .5s ease;
-    -moz-transition: padding-top .5s ease, padding-bottom .5s ease;
-    transition: padding-top .5s ease, padding-top .5s ease, padding-bottom .5s ease;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  -webkit-transition: padding-top .5s ease, padding-bottom .5s ease;
+  -moz-transition: padding-top .5s ease, padding-bottom .5s ease;
+  transition: padding-top .5s ease, padding-top .5s ease, padding-bottom .5s ease;
 }
 
 #custom-nav.affix {
-    top: 0;
-    min-width: 100%;
-    background-color: #3a3a3a;
-    opacity: 0.9;
-    -webkit-transition: background .5s ease-in-out, opacity .5s ease;
-    -moz-transition: background .5s ease-in-out, opacity .5s ease;
-    transition: background .5s ease-in-out, opacity .5s ease;
+	top: 0;
+	min-width: 100%;
+	background-color: #3a3a3a;
+  opacity: 0.9;
+  -webkit-transition: background .5s ease-in-out, opacity .5s ease;
+  -moz-transition: background .5s ease-in-out, opacity .5s ease;
+  transition: background .5s ease-in-out, opacity .5s ease;
 }
 
 .navbar-brand img {
@@ -80,31 +80,31 @@ body {
 }
 
 .parallax1 {
-		background: url('../images/bg1.jpg') no-repeat center center;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		text-align: center;
-		min-height: 60vh;
+	background: url('../images/bg1.jpg') no-repeat center center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	min-height: 60vh;
 }
 
 .parallax2 {
-		background: url('../images/bg2.jpg') no-repeat center center;
-		min-height: 60vh;
+	background: url('../images/bg2.jpg') no-repeat center center;
+	min-height: 60vh;
 }
 
 .parallax3 {
-		background: url('../images/bg3.jpg') no-repeat center center;
-		min-height: 80vh;
+	background: url('../images/bg3.jpg') no-repeat center center;
+	min-height: 80vh;
 }
 
 .parallax {
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    max-width: 100%;
-		padding-bottom: 5%;
+	background-attachment: fixed;
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+	padding-bottom: 5%;
 }
 
 section {
